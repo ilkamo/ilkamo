@@ -1,4 +1,4 @@
-### Hi there 👋
+#### Hi there 👋
 
 - I am a [Staff Software Engineer](https://www.linkedin.com/in/kamilmolendys/) 👨‍💻 with years of experience in fintech 💰
 - I have been writing code in Go for more than 4 years 🔋
